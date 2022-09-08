@@ -1,7 +1,7 @@
 # Ship-Image-Classification
 
 A Kaggle dataset of images of 5 difeerent categories of ship images with its labels in a csv file.
-I ahve built 2 models for image classification:
+I have built 2 models for image classification:
 
   1. Custom model using 6 Conv2D layers, MaxPool2D, followed by flattening and then adding a dropout before dense layer with softmax activation at the end.
      
