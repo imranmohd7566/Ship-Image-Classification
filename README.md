@@ -14,7 +14,7 @@ As we can see from the results that in the second model the validation accuracy 
 ![image](https://user-images.githubusercontent.com/50734928/188995138-dd87a964-1679-43d8-9d50-bd845e85073f.png)
 ![image](https://user-images.githubusercontent.com/50734928/188995228-9ddd8a99-9305-4a96-af42-086f0a82cbd0.png)
 
-The resulst on the test dataset can clearly prove that the MobileNetV2 is outperforming the custom model.
+The result on the test dataset can clearly prove that the MobileNetV2 is outperforming the custom model.
 
 Results:
 
